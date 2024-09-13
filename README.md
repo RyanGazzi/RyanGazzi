@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Ryan Carneiro Gazzi</h1>
 <h3 align="center">Apaixonado por Tecnologia, Desenvolvimento e Análise de Dados</h3>
 
-- Atualmente exerço a função de Analista Financeiro na [C.Vale Cooperativa Agroindustrial](https://www.cvale.com.br/)
+- Atualmente exerço a função de Assitente de Controladoria (BI) na Sooro Renner
 
-- Estudando **Python, SQL e Power BI**
+- Gerando insights com Power BI, Power Query, SQL e Python.
 
 - Cursando Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/)
 
