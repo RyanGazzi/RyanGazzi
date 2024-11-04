@@ -5,7 +5,7 @@
 
 - Gerando insights com Power BI, Power Query, SQL e Python.
 
-- Cursando Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/)
+- Formado em Análise e Desenvolvimento de Sistemas pela [Uninter](https://www.uninter.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
